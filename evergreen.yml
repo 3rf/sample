@@ -1,3 +1,5 @@
+ignore: ["README.md"]
+
 functions:
   "fetch source" :
     - command: git.get_project
