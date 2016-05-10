@@ -4,7 +4,7 @@ import sys
 import os
 import json
 
-#NICE
+#NICE22
 
 def main(args):
     if "timeout" in args:
